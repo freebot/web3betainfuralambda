@@ -1,0 +1,19 @@
+{
+  "name": "web3betainfuralambda",
+  "version": "1.0.0",
+  "description": "Deploy a contract in as lambda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freebot/web3betainfuralambda.git"
+  },
+  "author": "Jorge K. Ikeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freebot/web3betainfuralambda/issues"
+  },
+  "homepage": "https://github.com/freebot/web3betainfuralambda#readme"
+}
